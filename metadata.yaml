@@ -26,6 +26,8 @@ language: es
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Colección de Documentos Inéditos Relativos al Descubrimiento, Conquista y Organización
   de las Antiguas Posesiones Españolas de Ultramar, Tomo 2
 url: http://www.gutenberg.org/ebooks/50437
